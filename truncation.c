@@ -8,6 +8,7 @@ int main(void)
     int y = get_int("y: ");
 
     // Divide x by y
+    //Test
     float z = (float) x / (float) y;
     printf("%f\n", z);
 }
